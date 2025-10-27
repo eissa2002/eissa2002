@@ -10,10 +10,9 @@ Demonstrated ability to lead full-stack AI projects from research to production,
 ---
 
 ## 🔑 Highlight Projects
-
+- **RoboMust - AI-Powered Educational Platform** – an intelligent AI-powered educational platform that revolutionizes how students interact with course materials. By combining **Retrieval-Augmented Generation (RAG)**, **voice interaction**, and **advanced document processing**, it provides an immersive learning experience for academic institutions.
 - **ShopIntel** – AI-powered conversational assistant for smart shopping and price optimization across multi-item plans using LLMs, web scraping, and a recommendation engine.
 - **QuranGPT** – Retrieval-Augmented Generation (RAG) chatbot that answers questions about the Holy Quran using data from classical tafsir books stored in MongoDB and ChromaDB.
-- **Voice-Enabled RAG Tutor** – A voice-activated educational tutor using local LLMs, speech-to-text, and text-to-speech with avatar response generation.
 - **Smart Face Attendance System** – Campus-wide facial recognition attendance system for real-time student logging and automation.
 - **Garbage Detection Basket** – Vision-based classification and sorting system for promoting smart recycling in university environments.
 - **ScrapeMaster** – GUI-based scraping tool for collecting YouTube videos and web images using Selenium, BeautifulSoup, and Tkinter.
